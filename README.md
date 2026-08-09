@@ -1,4 +1,4 @@
-# CPC-MX4-IDC-to-Edge-adapter
+# Amstrad CPC - MX4/IDC to Edge adapter
 
 Simple adapter to directly connect Amstrad CPC expansions with edge connector to an MX4 board.  
 
