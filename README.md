@@ -10,7 +10,7 @@ Simple adapter to directly connect Amstrad CPC expansions with edge connector to
 
 The adapter and all resources are free to use for personal use.
 
-It is released under the CC BY-NC-ND 4.0 license with the following exception: Commercial production and selling is permitted (and encouraged) as long as the final product will be sold for a maximum of USD 6 / €6 / £6 or the equivalent in other currencies (excl. shipping and platform fees like e.g. for Ebay or SellMyRetro). 
+It is released under the CC BY-NC-ND 4.0 license with the following exception: Commercial production and selling is permitted (and encouraged) as long as the final product will be sold for a maximum of USD 6 / €6 / £6 or the equivalent in other currencies (excl. tax, shipping and platform fees like e.g. for Ebay or SellMyRetro). 
 
 ## Disclaimer
 
